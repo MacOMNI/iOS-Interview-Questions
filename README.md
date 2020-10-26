@@ -160,16 +160,16 @@ iOS面试相关问题整理，做这个的初心是希望能巩固自己的基�
 
 #### 设计模式
 
-- [1.iOS有哪些常见的设计模式?](https://ios.nobady.cn/Design-patterns.html#_1-ios%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-- [2.单例会有什么弊端？](https://ios.nobady.cn/Design-patterns.html#_2-%E5%8D%95%E4%BE%8B%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%BC%8A%E7%AB%AF%EF%BC%9F)
-- [3.编程中的六大设计原则？](https://ios.nobady.cn/Design-patterns.html#_3-%E7%BC%96%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F)
+- [x] [1.iOS有哪些常见的设计模式?](https://ios.nobady.cn/Design-patterns.html#_1-ios%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+- [x] [2.单例会有什么弊端？](https://ios.nobady.cn/Design-patterns.html#_2-%E5%8D%95%E4%BE%8B%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%BC%8A%E7%AB%AF%EF%BC%9F)
+- [x] [3.编程中的六大设计原则？](https://ios.nobady.cn/Design-patterns.html#_3-%E7%BC%96%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F)
 
 #### 组件化
 
-- [1.组件化有什么好处？](https://ios.nobady.cn/Component-based.html#_1-%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%EF%BC%9F)
-- [2.你是如何组件化解耦的？](https://ios.nobady.cn/Component-based.html#_2-%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%84%E4%BB%B6%E5%8C%96%E8%A7%A3%E8%80%A6%E7%9A%84%EF%BC%9F)
-- [3.为什么CTMediator方案优于基于Router的方案？](https://ios.nobady.cn/Component-based.html#_3-%E4%B8%BA%E4%BB%80%E4%B9%88ctmediator%E6%96%B9%E6%A1%88%E4%BC%98%E4%BA%8E%E5%9F%BA%E4%BA%8Erouter%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%9F)
-- [4.基于CTMediator的组件化方案，有哪些核心组成？](https://ios.nobady.cn/Component-based.html#_3-%E4%B8%BA%E4%BB%80%E4%B9%88ctmediator%E6%96%B9%E6%A1%88%E4%BC%98%E4%BA%8E%E5%9F%BA%E4%BA%8Erouter%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%9F)
+- [x] [1.组件化有什么好处？](https://ios.nobady.cn/Component-based.html#_1-%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%EF%BC%9F)
+- [x] [2.你是如何组件化解耦的？](https://ios.nobady.cn/Component-based.html#_2-%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%84%E4%BB%B6%E5%8C%96%E8%A7%A3%E8%80%A6%E7%9A%84%EF%BC%9F)
+- [x] [3.为什么CTMediator方案优于基于Router的方案？](https://ios.nobady.cn/Component-based.html#_3-%E4%B8%BA%E4%BB%80%E4%B9%88ctmediator%E6%96%B9%E6%A1%88%E4%BC%98%E4%BA%8E%E5%9F%BA%E4%BA%8Erouter%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%9F)
+- [x] [4.基于CTMediator的组件化方案，有哪些核心组成？](https://ios.nobady.cn/Component-based.html#_3-%E4%B8%BA%E4%BB%80%E4%B9%88ctmediator%E6%96%B9%E6%A1%88%E4%BC%98%E4%BA%8E%E5%9F%BA%E4%BA%8Erouter%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%9F)
 
 #### 调试技巧
 
